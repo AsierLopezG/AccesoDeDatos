@@ -10,7 +10,5 @@ public class Aula {
 
     // añadir mínimo 3 atributos (ejemplo: nombre, capacidad, edificio)
 
-    // constructor vacío
-    // constructor con parámetros
-    // getters y setters
+  
 }
